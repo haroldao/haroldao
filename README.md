@@ -16,6 +16,7 @@
 🖤
 <br />
 
-[![linkedin badge](https://img.shields.io/badge/linkedin-Connect with Harold-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/haroldao)
+[![linkedin badge](https://img.shields.io/badge/linkedin-Connect%20%with%20%Harold-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/haroldao)
+
 <!--
 **haroldao/haroldao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
