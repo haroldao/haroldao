@@ -9,11 +9,14 @@
 
 💻 I am currently learning Liquid (Template Language created by [Shopify](https://shopify.com))
 
+<br />
+<br />
 🖤
 🖤
 🖤
 🖤
 🖤
+<br />
 <br />
 
 [![LinkedIN Badge](https://img.shields.io/badge/linkedin-Connect%20with%20Harold-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/haroldao)
