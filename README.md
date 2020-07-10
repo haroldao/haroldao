@@ -7,6 +7,7 @@
 Join me on my [Instagram : @harold.ao](https://instagram.com/harold.ao)
 
 💻 I am currently learning Liquid (Template Language created by [Shopify](https://shopify.com))
+
 🖤
 🖤
 🖤
