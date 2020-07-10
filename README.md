@@ -1,11 +1,11 @@
 <img src="https://github.com/haroldao/haroldao/raw/master/banner_tw_2.png" alt="Hey, I'm Harold AO." width="100%" />
 <br />
 
-###  Hi there 👋
+###  Hi there, I'm Harold AO.
 
-### ✅Feel free to follow my [GitHub](https://github.com/haroldao)
+#### → Feel free to follow my [GitHub](https://github.com/haroldao)
 
-Join me on my [Instagram : @harold.ao](https://instagram.com/harold.ao)
+#### → Join me on my [Instagram : @harold.ao](https://instagram.com/harold.ao)
 
 💻 I am currently learning Liquid (Template Language created by [Shopify](https://shopify.com))
 
