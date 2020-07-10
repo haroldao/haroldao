@@ -3,6 +3,8 @@
 🖤
 🖤
 🖤
+<img src="https://github.com/sammarks/sammarks/raw/master/banner_tw_2.png" alt="Hey, I'm Harold AO." width="100%" />
+<br />
 ### Hi there 👋
 
 ### ✅Feel free to follow my [GitHub](https://github.com/haroldao)
