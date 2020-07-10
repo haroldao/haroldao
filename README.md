@@ -5,7 +5,7 @@
 🖤
 ### Hi there 👋
 
-### ✅Feel free to follow my [GitHub](www.github.com/haroldao)
+### ✅Feel free to follow my [GitHub](/haroldao)
 
 Join me on my [Instagram : @harold.ao](wwww.instagram.com/harold.ao)
 
