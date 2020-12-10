@@ -46,11 +46,11 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haroldao&show_icons=true&count_private=true&theme=dark" alt="haroldao"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haroldao&show_icons=true&count_private=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="haroldao"/>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haroldao&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haroldao&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
 </p>
 
 
