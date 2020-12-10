@@ -46,7 +46,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haroldao&show_icons=true&count_private=true&theme=dark" alt="haroldao" /></p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haroldao"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haroldao&theme=dark"/>
 </p>
 
 
