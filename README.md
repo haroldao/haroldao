@@ -41,7 +41,7 @@
 [![website badge](https://img.shields.io/badge/website-haroldao.com-black?style=flat-square)](https://haroldao.com)
 [![Instagram Badge](https://img.shields.io/badge/instagram-Follow%20me%20on%20IG-e95950?style=flat-square&logo=instagram)](https://www.instagram.com/harold.ao)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroldao&layout=compact&hide=html&theme=dark" alt="haroldao" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroldao&layout=default&theme=dark" alt="haroldao" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haroldao&show_icons=true&count_private=true&theme=dark" alt="haroldao" /></p>
 
