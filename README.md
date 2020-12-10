@@ -45,6 +45,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haroldao&show_icons=true&count_private=true&theme=dark" alt="haroldao" /></p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haroldao"/>
+</p>
+
 
 <!--
 **haroldao/haroldao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
