@@ -42,7 +42,7 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-Follow%20me%20on%20IG-e95950?style=flat-square&logo=instagram)](https://www.instagram.com/harold.ao)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroldao&layout=default&bg_color=0D1117&title_color=fffff" alt="haroldao" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroldao&layout=default&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="haroldao" />
 </p>
 
 <p>
