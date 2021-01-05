@@ -1,5 +1,6 @@
 <img src="https://github.com/haroldao/haroldao/raw/master/banner_tw_2.png" alt="Hey, I'm Harold AO." width="100%" />
 <br />
+｡ ◕ ‿ ◕ ｡
 
 ###  Hi there, I'm Harold AO.
 
