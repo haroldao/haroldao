@@ -29,6 +29,7 @@
 💻 I am currently learning Liquid (Template Language created by [Shopify](https://shopify.com))
 
 <br />
+
 [![LinkedIN Badge](https://img.shields.io/badge/linkedin-Connect%20with%20Harold-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/haroldao)
 [![website badge](https://img.shields.io/badge/website-haroldao.com-black?style=flat-square)](https://haroldao.com)
 [![Instagram Badge](https://img.shields.io/badge/instagram-Follow%20me%20on%20IG-e95950?style=flat-square&logo=instagram)](https://www.instagram.com/harold.ao)
