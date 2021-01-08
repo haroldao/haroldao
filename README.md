@@ -2,6 +2,9 @@
 <br />
 ｡ ◕ ‿ ◕ ｡
 
+
+### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/haroldao)
+
 ###  Hi there, I'm Harold AO.
 
 #### → Feel free to follow my [GitHub](https://github.com/haroldao)
