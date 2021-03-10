@@ -3,13 +3,13 @@
 ｡ ◕ ‿ ◕ ｡
 
 
-### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/haroldao)
+### [visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/haroldao)
 
-###  Hi there, I'm Harold AO.
+#####  Hi there, I'm Harold AO.
 
-#### → Feel free to follow my [GitHub](https://github.com/haroldao)
+##### → Feel free to follow my [GitHub](https://github.com/haroldao)
 
-#### → Join me on my [Instagram : @harold.ao](https://instagram.com/harold.ao)
+##### → Join me on my [Instagram : @harold.ao](https://instagram.com/harold.ao)
 
 
 
@@ -27,7 +27,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-# Education: 
+## Education: 
 
 ###### - [FreeCodeCamp](freecodecamp.org)
 ###### - [SuperHi](superhi.com)
