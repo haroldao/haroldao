@@ -2,8 +2,7 @@
 <br />
 ｡ ◕ ‿ ◕ ｡
 
-
-### [visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/haroldao)
+### 🔥 [visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/haroldao)
 
 #####  Hi there, I'm Harold AO.
 
@@ -29,9 +28,9 @@
 
 ## Education: 
 
-###### - [FreeCodeCamp](freecodecamp.org)
-###### - [SuperHi](superhi.com)
-###### - [YouTube (😏)](youtube.com)
+###### - [FreeCodeCamp](https://freecodecamp.org)
+###### - [SuperHi](https://superhi.com)
+###### - [YouTube (😏)](https://youtube.com)
 <br />
 
 💻 I am currently learning Liquid (Template Language created by [Shopify](https://shopify.com))
