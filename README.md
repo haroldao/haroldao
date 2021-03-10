@@ -28,8 +28,8 @@
 
 ## Education: 
 
-###### - [FreeCodeCamp](https://freecodecamp.org)
 ###### - [SuperHi](https://superhi.com)
+###### - [FreeCodeCamp](https://freecodecamp.org)
 ###### - [YouTube (😏)](https://youtube.com)
 <br />
 
