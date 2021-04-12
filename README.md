@@ -34,6 +34,8 @@
 💻 I am currently learning Liquid (Template Language created by [Shopify](https://shopify.com))
 
 <br />
+
+![Metrics](https://metrics.lecoq.io/haroldao)
 <details>
 <summary><b> Connect with me </b></summary>
   
