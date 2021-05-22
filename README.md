@@ -53,8 +53,9 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=haroldao&show_icons=true&count_private=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="haroldao"/>
 </p>
-
+Current Week stats
 <p>
+  
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haroldao&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
 </p>
 
