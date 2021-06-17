@@ -7,7 +7,7 @@
 
 ##### → Feel free to follow my [GitHub](https://github.com/haroldao)
 
-##### → Join me on my [gram : @harold.ao](https://instagram.com/harold.ao)
+##### → Join me on my [Instagram : @harold.ao](https://instagram.com/harold.ao)
 
 <br />
 
