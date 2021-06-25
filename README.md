@@ -11,8 +11,6 @@
 
 <br />
 
-...
-
 ## Education: 
 
 ###### - [SuperHi](https://superhi.com)
