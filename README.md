@@ -18,8 +18,6 @@
 ###### - [YouTube (😏)](https://youtube.com)
 <br />
 
-💻 I am currently learning Liquid (Template Language created by [Shopify](https://shopify.com))
-
 <br />
 
 <p align="center">
