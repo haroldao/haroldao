@@ -47,12 +47,12 @@ Current Week stats
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haroldao&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=haroldao&row=1&no-frame=true">
 <br>
 </p>
 
-<p align="left">
+<p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=haroldao&hide_border=true">
 <br>
 </p>
