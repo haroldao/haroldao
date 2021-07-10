@@ -22,7 +22,10 @@
 
 <br />
 
-![Metrics](https://metrics.lecoq.io/haroldao)
+<p align="center">
+   <img align="center" src="https://metrics.lecoq.io/haroldao" alt="haroldao"/> 
+</p>
+
 <details>
 <summary><b> Connect with me </b></summary>
   
