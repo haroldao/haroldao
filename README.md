@@ -5,9 +5,6 @@
 
 #####  Hi there, I'm Harold AO.
 
-##### → Feel free to follow my [GitHub](https://github.com/haroldao)
-
-##### → Join me on my [Instagram : @harold.ao](https://instagram.com/harold.ao)
 
 <br />
 
