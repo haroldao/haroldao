@@ -9,7 +9,7 @@
 
 <br />
 
-## Education: 
+## Education
 ###### - [SuperHi](https://superhi.com)
 ###### - [FreeCodeCamp](https://freecodecamp.org)
 ###### - [YouTube (😏)](https://youtube.com)
