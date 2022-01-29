@@ -17,7 +17,7 @@
 
 <br />
 
-## GitHub Stats
+## Connect with me
 <details>
 <summary>⚡Connect with me</summary>
  <br /> 
@@ -27,6 +27,7 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-Follow%20me%20on%20IG-e95950?style=flat-square&logo=instagram)](https://www.instagram.com/harold.ao)
 </details>
 
+## GitHub Stats
 <details>
    <summary>💻 GitHub Profile Stats</summary>
    <br />
