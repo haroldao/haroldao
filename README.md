@@ -3,7 +3,10 @@
 
 ### ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/haroldao)
 
-#####  Hi there, I'm Harold AO.
+<samp>
+ Hi there, I'm Harold AO.
+</samp>
+
 <br />
 
 ## Education: 
