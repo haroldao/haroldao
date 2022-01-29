@@ -12,6 +12,7 @@
 ## Education
 ###### - [SuperHi](https://superhi.com)
 ###### - [FreeCodeCamp](https://freecodecamp.org)
+###### - [Awwwards Academy](https://www.awwwards.com/academy)
 ###### - [YouTube (😏)](https://youtube.com)
 
 <br />
