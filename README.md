@@ -7,27 +7,32 @@
 <br />
 
 ## Education: 
-
 ###### - [SuperHi](https://superhi.com)
 ###### - [FreeCodeCamp](https://freecodecamp.org)
 ###### - [YouTube (😏)](https://youtube.com)
-<br />
 
 <br />
 
-<p align="center">
-   <img align="center" src="https://metrics.lecoq.io/haroldao" alt="haroldao"/> 
-</p>
-
+## GitHub Stats
 <details>
-<summary><b> Connect with me </b></summary>
-  
+<summary>⚡Connect with me</summary>
+ <br /> 
+   
 [![LinkedIN Badge](https://img.shields.io/badge/linkedin-Connect%20with%20Harold-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/haroldao)
 [![website badge](https://img.shields.io/badge/website-haroldao.com-black?style=flat-square)](https://haroldao.com)
 [![Instagram Badge](https://img.shields.io/badge/instagram-Follow%20me%20on%20IG-e95950?style=flat-square&logo=instagram)](https://www.instagram.com/harold.ao)
 </details>
 
+<details>
+   <summary>💻 GitHub Profile Stats</summary>
+   <br />
+   
 ↙ Works only with my public repositories
+   
+   <p align="center">
+   <img align="center" src="https://metrics.lecoq.io/haroldao" alt="haroldao"/> 
+</p>
+   
 <p>
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroldao&layout=default&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="haroldao" />
@@ -51,5 +56,6 @@ Current Week stats
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=haroldao&hide_border=true">
 <br>
 </p>
+   </details>
 <!--
 **haroldao/haroldao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
