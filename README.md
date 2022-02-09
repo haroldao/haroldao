@@ -18,7 +18,7 @@
 <br />
 
 <div align="center">
-  <p>WAKATIME</p>
+  <p>LAST 7 DAYS</p>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haroldao&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
 </div>
 
