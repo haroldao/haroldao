@@ -9,14 +9,6 @@
 
 <br />
 
-## Education
-###### - [SuperHi](https://superhi.com)
-###### - [FreeCodeCamp](https://freecodecamp.org)
-###### - [Awwwards Academy](https://www.awwwards.com/academy)
-###### - [YouTube (😏)](https://youtube.com)
-
-<br />
-
 <div align="center">
   <p>LAST 7 DAYS</p>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haroldao&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
