@@ -6,7 +6,7 @@
  Hi there, my name is Harold AO. 
 </samp>
 
-### I'm a 18-year-old french designer and developer specializing in [Shopify](https://shopify.com) DTC Brands. I'm also part of the [Awwwards Young Jury Panel](https://www.awwwards.com/jury-member/haroldao) !
+### I'm a 18-year-old french designer and developer specializing in [Shopify](https://shopify.com) DTC Brands. I'm also part of the [Awwwards Young Jury Panel](https://www.awwwards.com/jury-member/haroldao) ! I work internationally with businesses and studios teams to bring ambitious visions to life. 
 
 <br />
 
