@@ -1,7 +1,6 @@
 <img src="https://github.com/haroldao/haroldao/raw/master/banner_tw_2.png" alt="Hey, I'm Harold AO." width="100%" />
-<br />
 
-### ![Profile views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/haroldao)
+<br />
 
 <samp>
  Hi there, my name is Harold AO. 
@@ -10,7 +9,6 @@
 ### I'm a 18-year-old french designer and developer specializing in [Shopify](https://shopify.com) DTC Brands. I'm also part of the [Awwwards Young Jury Panel](https://www.awwwards.com/jury-member/haroldao) !
 
 <br />
-
 
 ## Connect with me
 <details>
@@ -54,5 +52,10 @@ Current Week stats
 <br>
 </p>
    </details>
+
+<br />
+<br />
+
+### ![Profile views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/haroldao)
 <!--
 **haroldao/haroldao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
