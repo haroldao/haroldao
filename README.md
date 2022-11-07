@@ -1,16 +1,16 @@
 <img src="https://github.com/haroldao/haroldao/raw/master/banner_tw_2.png" alt="Hey, I'm Harold AO." width="100%" />
 <br />
 
-### ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/haroldao)
+### ![Profile views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/haroldao)
 
 <samp>
- Hi there, I'm Harold AO.
+ Hi there, my name is Harold AO. 
 </samp>
 
-<br />
+### I'm a 18-year-old french designer and developer specializing in [Shopify](https://shopify.com) DTC Brands. I'm also part of the [Awwwards Young Jury Panel](https://www.awwwards.com/jury-member/haroldao) !
 
 <br />
-<br />
+
 
 ## Connect with me
 <details>
