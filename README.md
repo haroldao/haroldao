@@ -1,4 +1,4 @@
-I'm a 21-year-old French designer and developer specializing in [Shopify](https://shopify.com) DTC Brands. I'm also a member of the [Awwwards Young Jury Panel](https://www.awwwards.com/jury-member/haroldao)! <br /> I work internationally with businesses and studio teams to bring ambitious visions to life.
+I'm a 22-year-old French designer and developer specializing in [Shopify](https://shopify.com) DTC Brands. I'm also a member of the [Awwwards Young Jury Panel](https://www.awwwards.com/jury-member/haroldao)! <br /> I work internationally with businesses and studio teams to bring ambitious visions to life.
 
 <br />
 
